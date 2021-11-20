@@ -1,0 +1,11 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":162585630, "collectionId":1351201811, "trackId":1351201822, "artistName":"莫文蔚", "collectionName":"慢慢喜歡你 - Single", "trackName":"慢慢喜歡你", "collectionCensoredName":"慢慢喜歡你 - Single", "trackCensoredName":"慢慢喜歡你", "artistViewUrl":"https://music.apple.com/tw/artist/%E8%8E%AB%E6%96%87%E8%94%9A/162585630?uo=4", "collectionViewUrl":"https://music.apple.com/tw/album/%E6%85%A2%E6%85%A2%E5%96%9C%E6%AD%A1%E4%BD%A0/1351201811?i=1351201822&uo=4", "trackViewUrl":"https://music.apple.com/tw/album/%E6%85%A2%E6%85%A2%E5%96%9C%E6%AD%A1%E4%BD%A0/1351201811?i=1351201822&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/a9/80/55a98016-d493-eaf5-94f4-1b06ea7c4387/mzaf_5840316412922246048.plus.aac.p.m4a", "artworkUrl30":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/bc/6b/8a/bc6b8a56-ad2e-348f-53a4-1988bfd726db/source/30x30bb.jpg", "artworkUrl60":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/bc/6b/8a/bc6b8a56-ad2e-348f-53a4-1988bfd726db/source/60x60bb.jpg", "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/bc/6b/8a/bc6b8a56-ad2e-348f-53a4-1988bfd726db/source/100x100bb.jpg", "collectionPrice":20.00, "trackPrice":20.00, "releaseDate":"2018-03-02T12:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":1, "trackNumber":1, "trackTimeMillis":220972, "country":"TWN", "currency":"TWD", "primaryGenreName":"國語流行樂", "isStreamable":true}]
+}
+
+
